@@ -1,0 +1,27 @@
+{
+    "id": "87362F97",
+    "path": "~/GitHub/Week-5-Health-Data-Science-2023/Inputs/R-read-data-finished.Rmd",
+    "project_path": "Inputs/R-read-data-finished.Rmd",
+    "type": "r_markdown",
+    "hash": "4119205436",
+    "contents": "",
+    "dirty": false,
+    "created": 1697347332766.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "179,0",
+        "scrollLine": "171",
+        "last_setup_crc32": "97019af4bb338d19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1697366438,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1697366438118,
+    "read_only": false,
+    "read_only_alternatives": []
+}
